@@ -6,7 +6,7 @@
         "php": "^7.0",
         "dreipunktnull/dhl-shipment-tracking": "dev-master",
         "symfony/symfony": "^3.3",
-        "petschko/dhl-php-sdk": "dev-master"
+        "petschko/dhl-php-sdk": "^0.3"
     },
     "license": "MIT",
     "authors": [
